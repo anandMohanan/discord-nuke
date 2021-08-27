@@ -1,0 +1,23 @@
+{
+  "name": "discord-presser-server-nuker",
+  "version": "1.0.0",
+  "description": "| Presser |  | ------------- |  | ![Presser](https://media.discordapp.net/attachments/782211616350404611/800697767659962368/unknown.png) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17teen/Discord-Presser-Server-Nuker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17teen/Discord-Presser-Server-Nuker/issues"
+  },
+  "homepage": "https://github.com/17teen/Discord-Presser-Server-Nuker#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
