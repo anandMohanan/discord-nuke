@@ -12,18 +12,6 @@
 8. `Kick All Members`
 9. `Server Annihilation` | A combination of all the above resulting server destruction.
 
-# Show Case: 
-
-| Mass Delete Channels | Mass Create Channels | Mass Roles |
-| ------------- | ------------- | ------------- |
-| ![mass delete 1](https://user-images.githubusercontent.com/71920969/94821935-0b3a2780-03fa-11eb-8a43-3fb418e373ba.gif) | ![mass channels lol](https://user-images.githubusercontent.com/71920969/94822362-7683f980-03fa-11eb-9759-906d649b6021.gif) | ![massroles](https://media3.giphy.com/media/StXIhkIQKb8sEdXjPj/giphy.gif) |
-
-### Mass Ping:
-![mass ping lol](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif)
-
-### Help:
-![help](https://media.discordapp.net/attachments/782211616350404611/800773328058712104/unknown.png?width=576&height=610)
-
 
 # Requirements Before Set-up:
 
@@ -36,9 +24,6 @@
 2. Go to the "Bot" section and scroll down till you see "Privileged Gateway Intents".
 3. Select both **Presence Intent** and **Server Members Intent**
 
-### Example
-
-![intents](https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400)
 
 # Set-up: Script
 
@@ -62,12 +47,3 @@
 
 This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
 
-## Tip
-Also I'd recommend only mass pinging till the server reaches to 3k pings. Any more than that will result in the hoster of the tool discord to lag or be rate limited for 30 mins - 2hrs ;)
-
-## Contact Me
-
-﹒[Discord](https://discord.com/users/709827684888215582)
-﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
-﹒[Telegram](https://t.me/clairvoyant7teen)
-﹒[Steam](https://steamcommunity.com/id/seven777teen/)
